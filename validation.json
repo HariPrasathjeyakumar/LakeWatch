@@ -1,0 +1,1 @@
+{"iou": 0.764, "precision": 0.894, "recall": 0.84, "n_validation_polygons": 100, "n_validation_points": 100, "encroachment_precision": 0.923, "n_encroachment_points": 26, "seasonal_review": {"n_reviewed": 8, "vegetation": 8, "built_or_filled": 0, "other": 0}}
