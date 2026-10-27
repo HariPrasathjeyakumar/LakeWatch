@@ -1,0 +1,7 @@
+{
+  "porur": "Polygon covers the whole lake including the part south of the bridge. Total classified encroachment is small (4 patches, under 1 ha).",
+  "chembarambakkam": "Large reservoir used as a control site. Its water extent swings in 2017-2019, probably with rainfall, which has not been checked against records.",
+  "ambattur": "The 500 m ring was already about 91% built-up in 2025, so built-up growth there is small by construction.",
+  "puzhal": "Large reservoir used as a control site. Built-up growth in its surrounding ring may be overstated because 2017 had fewer satellite scenes; this has not been verified.",
+  "pallikaranai": "Marsh with channels and land strips narrower than a 10 m pixel. The water mask detected only 4 of 10 labelled water points here, so water-extent trends and the seasonal class are less reliable."
+}
