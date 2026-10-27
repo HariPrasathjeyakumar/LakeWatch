@@ -1,0 +1,7 @@
+{
+  "name": "LakeWatch",
+  "description": "Satellite-based encroachment tracking for lakes and wetlands around Chennai for officials and citizen groups.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
